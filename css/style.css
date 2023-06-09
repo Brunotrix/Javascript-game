@@ -1,5 +1,5 @@
 body {
-    background-color: indigo;
+    background-color: rgb(7, 78, 85);
     color: #fff;  
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     margin: 0;
@@ -16,9 +16,9 @@ body {
   }
   
   canvas {
-    border: 4px solid #ff6600;
+    border: 4px solid #321a0a;
     border-radius: 8px;
-    background-color: #feff9d;
+    background-color: #ba8a2a;
   }
   
   .btns {
@@ -30,13 +30,14 @@ body {
   }
   
   button {
-    background-color: #fdef05;
+    background-color: #321a0a;
     border-radius: 8px;
-    border-color: #ff6600;
+    border-color: #311b02;
     font-family: inherit;
     margin: 0;
     padding: 5px 20px;
     width: 100px;
+    color: white;
   }
   button:not(:last-child) {
     margin-right: 10px;
